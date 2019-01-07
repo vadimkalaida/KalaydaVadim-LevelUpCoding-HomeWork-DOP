@@ -139,6 +139,11 @@ a {
 }
 
 .welcome__right-h2 {
+  margin-top: 40px;
+}
+
+.welcome__right-h2-text {
+  color: #0F3008;
   font-size: 32px;
   line-height: 14.16px;
   font-family: "Gothic A1", sans-serif;
