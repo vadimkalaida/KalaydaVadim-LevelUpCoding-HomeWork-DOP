@@ -165,9 +165,9 @@ a {
 }
 
 .welcome__right-button {
-  display: block;
+  background: url(img/arrow.png);
   width: 13px;
-  height: 18px;
+  height: 9px;
   margin-left: 45px;
 }
 
@@ -217,8 +217,9 @@ a {
 }
 
 .about__left-button {
+  background: url(img/arrow.png);
   width: 13px;
-  height: 18px;
+  height: 9px;
   margin-left: 35px;
   margin-top: 10px;
 }
