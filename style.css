@@ -183,6 +183,9 @@ a {
   height: 425px;
   display: flex;
   flex-direction: column;
+  border-right: 1px solid #ECECFA;
+  height: 80%;
+  margin-top: 37px;
 }
 
 .about__left-h3 {
