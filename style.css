@@ -166,6 +166,7 @@ a {
 
 .welcome__right-button {
   background: url(img/arrow.png);
+  background-repeat: no-repeat;
   width: 13px;
   height: 9px;
   margin-left: 45px;
@@ -216,6 +217,7 @@ a {
 
 .about__left-button {
   background: url(img/arrow.png);
+  background-repeat: no-repeat;
   width: 13px;
   height: 9px;
   margin-left: 35px;
